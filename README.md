@@ -4,6 +4,8 @@ This project visualizes the academic performance of students to see the overall 
 This school analytics Power BI report provides an a overview, while allowing the user to quickly and easily drill down for deeper insights with the use of thoughtfully 
  placed slicers and cross-filtering visuals. This report is intuitive to use and easy to read, making data-driven education data analysis accessible even to users without a background in Power BI.
 
+<img width="700" alt="screenshot" src="https://github.com/user-attachments/assets/8c572fb5-8aba-4602-ac02-9c40949c41d8" />
+
 ## Description for View
 
 Report titled "Analysis of the Evaluation Level" with the aim of providing a comprehensive, single-page view that features interactive charts based on assessment levels.
